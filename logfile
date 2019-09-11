@@ -1,0 +1,33 @@
+2019-09-07 17:49:16.203 +08 [30732] FATAL:  lock file "postmaster.pid" already exists
+2019-09-07 17:49:16.203 +08 [30732] HINT:  Is another postmaster (PID 7252) running in data directory "C:/Users/ong_chun_tat_dastan/scoop/apps/postgresql/current/data"?
+2019-09-07 17:50:06.346 +08 [17236] FATAL:  lock file "postmaster.pid" already exists
+2019-09-07 17:50:06.346 +08 [17236] HINT:  Is another postmaster (PID 7252) running in data directory "C:/Users/ong_chun_tat_dastan/scoop/apps/postgresql/current/data"?
+2019-09-11 12:23:07.288 +08 [15252] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-11 12:23:07.288 +08 [15252] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-11 12:23:07.633 +08 [18240] LOG:  database system was interrupted; last known up at 2019-09-08 18:41:00 +08
+2019-09-11 12:23:17.858 +08 [18240] LOG:  database system was not properly shut down; automatic recovery in progress
+2019-09-11 12:23:17.869 +08 [18240] LOG:  redo starts at 0/176F510
+2019-09-11 12:23:17.869 +08 [18240] LOG:  invalid record length at 0/176F5F0: wanted 24, got 0
+2019-09-11 12:23:17.869 +08 [18240] LOG:  redo done at 0/176F5B8
+2019-09-11 12:23:18.016 +08 [15252] LOG:  database system is ready to accept connections
+2019-09-11 17:28:50.462 +08 [14756] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 18:20:15.247 +08 [7424] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 18:24:21.566 +08 [15644] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 18:27:37.114 +08 [5556] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 18:28:13.799 +08 [22664] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 18:33:36.433 +08 [23108] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 18:33:36.433 +08 [23108] LOG:  unexpected EOF on client connection with an open transaction
+2019-09-11 18:33:36.433 +08 [22968] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 18:33:36.433 +08 [22968] LOG:  unexpected EOF on client connection with an open transaction
+2019-09-11 18:33:36.437 +08 [22488] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 18:33:36.437 +08 [22488] LOG:  unexpected EOF on client connection with an open transaction
+2019-09-11 18:38:00.846 +08 [23272] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
